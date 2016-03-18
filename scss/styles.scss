@@ -1,3 +1,28 @@
-.colTitles {
-  display: none;
+h1 {
+  color: #BF161B;
+}
+h2 {
+  color: #BF161B;
+}
+
+.input {
+  margin: auto;
+  width: 50%;
+}
+
+.btn-custom {
+  background-color: hsl(358, 93%, 2%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f61c23", endColorstr="#090000");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#f61c23), to(#090000));
+  background-image: -moz-linear-gradient(top, #f61c23, #090000);
+  background-image: -ms-linear-gradient(top, #f61c23, #090000);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f61c23), color-stop(100%, #090000));
+  background-image: -webkit-linear-gradient(top, #f61c23, #090000);
+  background-image: -o-linear-gradient(top, #f61c23, #090000);
+  background-image: linear-gradient(#f61c23, #090000);
+  border-color: #090000 #090000 hsl(358, 93%, -11%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.85);
+  -webkit-font-smoothing: antialiased;
 }

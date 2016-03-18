@@ -1,16 +1,10 @@
-# _Project Title_
+# _Modern JS apps independent project_
 
-#### _A simple template, 3.__.2016_
-
-### By _** Nicholas Jensen-Hay and **_
+### By _** Joshua Gustafson March 18, 2016 **_
 
 ## Description
 
-_This web app is designed to ._
-
-_The goal of this project is to ._
-
-_The project was put together using ._
+_enter a GitHub username into a form and submit it to see names and descriptions of that person's public repositories.._
 
 ## Setup/Installation
 
@@ -31,11 +25,11 @@ _The project was put together using ._
 
 ## Known Bugs
 
-_This application is not fully designed and may have unknown bugs._
+_no known bugs_
 
 ## Support and contact details
 
-_If you have any questions, concerns, or feedback, please contact the authors through_ [gitHub](https://github.com/hreacon/).
+_If you have any questions, concerns, or feedback, please contact the authors through_ [gitHub](https://github.com/waitbutmetho/).
 
 ## Technologies Used
 
@@ -47,4 +41,4 @@ _If you have any questions, concerns, or feedback, please contact the authors th
 
 MIT License.
 
-Copyright (c) 2016 **_Nicholas Jensen-Hay_**
+Copyright (c) 2016 **_Joshua Gustafson_**
